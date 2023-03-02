@@ -1,0 +1,68 @@
+
+body {
+    background-color: rgb(143, 240, 240);
+}
+
+.game-card {
+    margin: auto;
+    align-items: auto;  
+    font-family: 'Open Sans', monospace;
+    border: 15px solid cadetblue;
+   
+}
+
+.card.text-center {
+    margin: auto ;
+    width: 40%;
+    
+   
+    border: 10px solid slategray;
+}
+
+.card-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: rgb(61, 60, 63);
+    background-color: lightslategrey;
+
+} 
+
+
+.card-title  {
+    color: rgb(61, 60, 63);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+} 
+.card-body {
+    background-color: darkgrey;
+}
+
+.card-footer {
+    color: rgb(61, 60, 63);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightslategrey;
+}
+
+.btn.btn-info {
+    background-color: darkslateblue;
+    border-radius: 10px;
+    
+}
+
+.btn.btn-success {
+    background-color: limegreen;
+    border-radius: 10px;
+}
+  
+h2 {
+    text-align: center;
+    color: midnightblue;
+    margin-top: 60px;
+    
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding: 10px;
+  }
+
+  
